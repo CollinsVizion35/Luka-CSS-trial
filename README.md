@@ -6,3 +6,5 @@ it involves the use of
 
 -- @keyframe animations {} in CSS
 -- setIntervalTimeout in JS
+
+Arts/PNGs were made by me with corel draw
